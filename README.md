@@ -1,2 +1,2 @@
-# bank-management-system
-team leader yash pratap singh sec- ds sec 1
+# BankManagementSystem
+Bank Management System website servlet jsp and mysql for database
